@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import styled from 'styled-components';
 import { MdOutlineFavoriteBorder, MdOutlineFavorite } from 'react-icons/md';
 
 const FavoriteButton = () => {

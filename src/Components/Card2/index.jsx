@@ -20,7 +20,7 @@ const Card2 = () => {
 				<div className='icon'>
 					<FavoriteButton />
 				</div>
-				<img src='./Img/img1.jpg' />
+				<img src='./Img/img1.jpg' alt='img1' />
 			</div>
 			<div className='card-body'>
 				<h3 className='title'>{product.title}</h3>

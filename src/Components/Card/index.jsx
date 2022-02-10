@@ -14,7 +14,7 @@ const Card = () => {
 		<Container>
 			<div className='card-img'>
 				<BsFillCartPlusFill className='icon' />
-				<img src='./Img/img1.jpg' />
+				<img src='./Img/img1.jpg' alt='img1' />
 			</div>
 			<div className='card-body'>
 				<h3 className='title'>{product.title}</h3>
